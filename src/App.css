@@ -154,6 +154,7 @@ nav.navbar .navbar-nav a.nav-link.navbar-link.active {
 span.navbar-text {
     display: flex;
     align-items: center;
+	color:white;
 }
 .social-icon {
     display: inline-block;
