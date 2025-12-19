@@ -29,9 +29,9 @@ export const NavBar = () => {
         <Navbar.Toggle />
         <Navbar.Collapse>
           <Nav className="ms-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#skills">Skills</Nav.Link>
-            <Nav.Link href="#projects">Projects</Nav.Link>
+            <Nav.Link href="#home"style={{ color: "white" }}>Home</Nav.Link>
+            <Nav.Link href="#skills"style={{ color: "white" }}>Skills</Nav.Link>
+            <Nav.Link href="#projects" style={{ color: "white" }}>Projects</Nav.Link>
           </Nav>
 
           <span className="navbar-text">
